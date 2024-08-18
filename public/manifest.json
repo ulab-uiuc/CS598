@@ -1,0 +1,15 @@
+{
+  "short_name": "CS598",
+  "name": "CS598: Deep Learning with Graphs",
+  "icons": [
+    {
+      "src": "logo.pdf",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
