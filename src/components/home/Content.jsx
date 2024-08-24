@@ -1,7 +1,7 @@
 import React from "react";
 import { Jumbotron } from "./migration";
 
-const Content = ({}) => {
+const Content = () => {
   return (
     <Jumbotron
       id="content"

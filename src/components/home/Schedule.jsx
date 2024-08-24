@@ -2,7 +2,7 @@ import React from "react";
 import { Jumbotron } from "./migration";
 import { Table } from "react-bootstrap";
 
-const Schedule = ({ schedule }) => {
+const Schedule = () => {
   const columnWidths = {
     date: { width: "15%" },
     description: { width: "25%" },

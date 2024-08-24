@@ -1,11 +1,9 @@
 import React from "react";
-
 import { Jumbotron } from "./migration";
-
 import ZiruiCheng from "../../assets/img/zirui_cheng.jpg";
 import JiaxuanYou from "../../assets/img/jiaxuan_you.jpg";
 
-const Logistics = ({ imgSize }) => {
+const Logistics = () => {
   return (
     <Jumbotron id="logistics" className="m-0">
       <h2
@@ -35,9 +33,7 @@ const Logistics = ({ imgSize }) => {
               <b>Office Hours</b>: TBD
             </li>
             <li>
-              <b>Communication</b>: Students should ask all course-related
-              questions on Ed (accessible from Canvas), where you will also find
-              announcements.
+              <b>Communication</b>: Canvas.
             </li>
           </ul>
         </p>
@@ -52,8 +48,8 @@ const Logistics = ({ imgSize }) => {
             className="border border-secondary rounded-circle"
             src={JiaxuanYou}
             alt="profilepicture"
-            width={imgSize}
-            height={imgSize}
+            width={150}
+            height={150}
             style={{ marginTop: "0.5em", marginBottom: "0.5em" }}
           />
           <p
@@ -74,8 +70,8 @@ const Logistics = ({ imgSize }) => {
             className="border border-secondary rounded-circle"
             src={ZiruiCheng}
             alt="profilepicture"
-            width={imgSize}
-            height={imgSize}
+            width={150}
+            height={150}
             style={{ marginTop: "0.5em", marginBottom: "0.5em" }}
           />
           <p

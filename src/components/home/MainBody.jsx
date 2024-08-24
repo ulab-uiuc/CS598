@@ -1,7 +1,8 @@
 import React from "react";
 import Container from "react-bootstrap/Container";
-import Siebel from "../../assets/img/siebel.jpg";
 import Typist from "react-typist-component";
+
+import Siebel from "../../assets/img/siebel.jpg";
 
 const MainBody = React.forwardRef(({}, ref) => {
   return (
