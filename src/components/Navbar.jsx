@@ -39,7 +39,7 @@ const Navigation = React.forwardRef((props, ref) => {
     >
       <Navbar.Brand
         className={`${!isTop ? "brand" : "brand-white"}`}
-        href={process.env.PUBLIC_URL + "/#home"}
+        href={"/CS598/#home"}
       >
         CS598
       </Navbar.Brand>
@@ -47,25 +47,25 @@ const Navigation = React.forwardRef((props, ref) => {
       <Navbar.Collapse id="basic-navbar-nav">
         <Nav className={`navbar-nav mr-auto`}>
           <NavLink
-            href={process.env.PUBLIC_URL + "/#logistics"}
+            href={"/CS598/#logistics"}
             className={`${!isTop ? "brand" : "brand-white"}`}
           >
             Logistics
           </NavLink>
           <NavLink
-            href={process.env.PUBLIC_URL + "/#content"}
+            href={"/CS598/#content"}
             className={`${!isTop ? "brand" : "brand-white"}`}
           >
             Content
           </NavLink>
           <NavLink
-            href={process.env.PUBLIC_URL + "/#schedule"}
+            href={"/CS598/#schedule"}
             className={`${!isTop ? "brand" : "brand-white"}`}
           >
             Schedule
           </NavLink>
           <NavLink
-            href={process.env.PUBLIC_URL + "/#grading"}
+            href={"/CS598/#grading"}
             className={`${!isTop ? "brand" : "brand-white"}`}
           >
             Grading
