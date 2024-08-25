@@ -56,9 +56,10 @@ const Grading = () => {
         hope is that their projects will firstly serve as an opportunity for
         them to dive deep into the graph machine learning community and get
         first-hand experience researching related topics. To this end, we are
-        goining to use a conference-like system to help students become familiar
-        with the research process. Students are required to <i>submit</i> and{" "}
-        <i>review</i> papers from each other within the class.
+        goining to use a conference system (e.g.,{" "}
+        <a href="https://openreview.net/">OpenReview</a>) to help students
+        become familiar with the research process. Students are required to{" "}
+        <i>submit</i> and <i>review</i> papers from each other within the class.
       </p>
       <h3 style={{ marginTop: "0.5em", marginBottom: "0.5em" }}>Policy</h3>
       <ul style={{ marginTop: "0.5em", marginBottom: "0.5em" }}>
