@@ -26,7 +26,7 @@ npm install
 ## Develop
 
 + To change the content of different sessions, edit the code in `src`. 
-+ To start a server in the developing environment, run the following code. In default settings, we can browse the website at http://localhost:3000/.
++ To start a server in the developing environment, run the following code. In default settings, we can browse the website at http://localhost:3000/CS598/.
 
 ```bash
 npm start
@@ -34,9 +34,8 @@ npm start
 
 ## Deploy
 
-+ To deploy the changes to the course website, run the following code in your terminal.
++ To deploy the changes to the course website, run the following code in your terminal. The whole website will be **automatically** deployed at https://ulab-uiuc.github.io/CS598/ or http://courses.grainger.illinois.edu/cs598you/fa2024/.
 
 ```bash
 npm run deploy
 ```
-
