@@ -30,10 +30,10 @@ const Logistics = () => {
               classes.
             </li>
             <li>
-              <b>Office Hours</b>: TBD
+              <b>Office Hours</b>: To be announced
             </li>
             <li>
-              <b>Communication</b>: Canvas.
+              <b>Communication</b>: Canvas
             </li>
           </ul>
         </p>
