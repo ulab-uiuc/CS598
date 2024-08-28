@@ -39,7 +39,7 @@ const Schedule = () => {
         </thead>
         <tbody>
           <tr>
-            <td>28/08 Wed</td>
+            <td>Aug 28 Wed</td>
             <td>
               Introduction [
               <a href={require("../../assets/slides/1_Introduction.pdf")}>
@@ -52,7 +52,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>30/08 Fri</td>
+            <td>Aug 30 Fri</td>
             <td>Node embeddings [Slides]</td>
             <td>
               <ul>
@@ -77,7 +77,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>04/09 Wed</td>
+            <td>Sept 04 Wed</td>
             <td>Graph neural networks [Slides]</td>
             <td>
               <ul>
@@ -98,7 +98,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>06/09 Fri</td>
+            <td>Sept 06 Fri</td>
             <td>A general perspective on GNNs [Slides]</td>
             <td>
               <ul>
@@ -123,7 +123,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>11/09 Wed</td>
+            <td>Sept 11 Wed</td>
             <td>GNN augmentation and training [Slides]</td>
             <td>
               <ul>
@@ -139,7 +139,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>13/09 Fri</td>
+            <td>Sept 13 Fri</td>
             <td>Theories of GNNs [Slides]</td>
             <td>
               <ul>
@@ -154,7 +154,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>18/09 Wed</td>
+            <td>Sept 18 Wed</td>
             <td>Heterogenous graphs [Slides]</td>
             <td>
               <ul>
@@ -174,7 +174,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>20/09 Fri</td>
+            <td>Sept 20 Fri</td>
             <td>Knowledge graphs [Slides]</td>
             <td>
               <ul>
@@ -212,7 +212,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>25/09 Wed</td>
+            <td>Sept 25 Wed</td>
             <td>Reasoning over knowledge graphs [Slides]</td>
             <td>
               <ul>
@@ -238,7 +238,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>27/09 Fri</td>
+            <td>Sept 27 Fri</td>
             <td>Fast neural subgraph matching [Slides]</td>
             <td>
               <ul>
@@ -264,7 +264,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>02/10 Wed</td>
+            <td>Oct 02 Wed</td>
             <td>GNNs for recommenders [Slides]</td>
             <td>
               <ul>
@@ -291,21 +291,21 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>04/10 Fri</td>
+            <td>Oct 04 Fri</td>
             <td>PyTorch Geometric Library (Part 1) [Slides]</td>
             <td></td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>09/10 Wed</td>
+            <td>Oct 09 Wed</td>
             <td>PyTorch Geometric Library (Part 2) [Slides]</td>
             <td></td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>11/10 Fri</td>
+            <td>Oct 11 Fri</td>
             <td>Deep generative models for graphs [Slides]</td>
             <td>
               <ul>
@@ -327,7 +327,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>16/10 Wed</td>
+            <td>Oct 16 Wed</td>
             <td>Advanced topics in GNNs [Slides]</td>
             <td>
               <ul>
@@ -352,7 +352,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>18/10 Fri</td>
+            <td>Oct 18 Fri</td>
             <td>Graph Transformers [Slides]</td>
             <td>
               <ul>
@@ -378,7 +378,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>23/10 Wed</td>
+            <td>Oct 23 Wed</td>
             <td>Scaling to large graphs [Slides]</td>
             <td>
               <ul>
@@ -399,7 +399,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>25/10 Fri</td>
+            <td>Oct 25 Fri</td>
             <td>
               <b>Paper Presentations</b> (Part 1)
             </td>
@@ -408,7 +408,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>30/10 Wed</td>
+            <td>Oct 30 Wed</td>
             <td>
               <b>Paper Presentations</b> (Part 2)
             </td>
@@ -417,7 +417,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>01/11 Fri</td>
+            <td>Nov 01 Fri</td>
             <td>Self-supervised learning with GNNs [Slides]</td>
             <td></td>
 
@@ -425,7 +425,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>06/11 Wed</td>
+            <td>Nov 06 Wed</td>
             <td>Foundation models and pre-trained GNNs</td>
             <td>
               <ul>
@@ -446,7 +446,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>08/11 Fri</td>
+            <td>Nov 08 Fri</td>
             <td>Link Prediction and Causality [Slides]</td>
             <td>
               <ul>
@@ -461,7 +461,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>13/11 Wed</td>
+            <td>Nov 13 Wed</td>
             <td>Algorithmic reasoning with GNNs [Slides]</td>
             <td>
               <ul>
@@ -480,7 +480,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>15/11 Fri</td>
+            <td>Nov 15 Fri</td>
             <td>
               Applications in graphics, robotics and scientific simulations
               [Slides]
@@ -490,21 +490,21 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>20/11 Wed</td>
+            <td>Nov 20 Wed</td>
             <td>Conclusion [Slides]</td>
             <td></td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>22/11 Fri</td>
+            <td>Nov 22 Fri</td>
             <td>Conclusion [Slides]</td>
             <td></td>
             <td></td>
             <td></td>
           </tr>
           <tr>
-            <td>04/12 Wed</td>
+            <td>Dec 04 Wed</td>
             <td>
               <b>Project Presentations</b> (Part 1)
             </td>
@@ -513,7 +513,7 @@ const Schedule = () => {
             <td></td>
           </tr>
           <tr>
-            <td>06/12 Fri</td>
+            <td>Dec 06 Fri</td>
             <td>
               <b>Project Presentations</b> (Part 2)
             </td>

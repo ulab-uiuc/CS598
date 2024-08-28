@@ -47,12 +47,10 @@ const Content = () => {
       <p style={{ marginTop: "0.5em", marginBottom: "0.5em" }}>
         Students are expected to have the following background:
         <ul>
-          <li>
-            Knowledge of basic computer science principles, sufficient to write
-            a reasonably non-trivial computer program.
+          <li>Basics of deep learning
           </li>
-          <li>Familiarity with the basic probability theory.</li>
-          <li>Familiarity with the basic linear algebra.</li>
+          <li>Python programming skills</li>
+          <li>Recommended: PyTorch, machine learning, probability and statistics</li>
         </ul>
       </p>
       <h3 style={{ marginTop: "0.5em", marginBottom: "0.5em" }}>Materials</h3>
@@ -65,13 +63,6 @@ const Content = () => {
             by William L. Hamilton
           </li>
           <li>
-            <a href="https://www.cs.cornell.edu/home/kleinber/networks-book/">
-              Networks, Crowds, and Markets: Reasoning About a Highly Connected
-              World
-            </a>{" "}
-            by David Easley and Jon Kleinberg
-          </li>
-          <li>
             <a href="https://networksciencebook.com/">Network Science</a> by
             Albert-László Barabási
           </li>
@@ -80,14 +71,24 @@ const Content = () => {
       <h3 style={{ marginTop: "0.5em", marginBottom: "0.5em" }}>References</h3>
       <p style={{ marginTop: "0.5em", marginBottom: "0.5em" }}>
         <ul>
-          <li>
-            <a href="https://web.stanford.edu/class/cs224w/">
-              CS224W, Stanford University
+          <li>Much of the course materials are adapted from <a href="https://web.stanford.edu/class/cs224w/">
+            CS224W @ Stanford University
             </a>
+            . We sincerely appreciate Prof. Leskovec and the TA team for making the course materials publicly available.
           </li>
           <li>
             <a href="https://graph-and-geometric-learning.github.io/cpsc483-583-website-23fall">
               CPSC483/583, Yale University
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/pyg-team/pytorch_geometric">
+              PyG (PyTorch Geometric)
+            </a>
+          </li>
+          <li>
+            <a href="https://github.com/snap-stanford/GraphGym">
+              GraphGym
             </a>
           </li>
         </ul>
