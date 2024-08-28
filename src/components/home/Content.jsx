@@ -47,10 +47,11 @@ const Content = () => {
       <p style={{ marginTop: "0.5em", marginBottom: "0.5em" }}>
         Students are expected to have the following background:
         <ul>
-          <li>Basics of deep learning
-          </li>
+          <li>Basics of deep learning</li>
           <li>Python programming skills</li>
-          <li>Recommended: PyTorch, machine learning, probability and statistics</li>
+          <li>
+            Recommended: PyTorch, machine learning, probability and statistics
+          </li>
         </ul>
       </p>
       <h3 style={{ marginTop: "0.5em", marginBottom: "0.5em" }}>Materials</h3>
@@ -71,14 +72,17 @@ const Content = () => {
       <h3 style={{ marginTop: "0.5em", marginBottom: "0.5em" }}>References</h3>
       <p style={{ marginTop: "0.5em", marginBottom: "0.5em" }}>
         <ul>
-          <li>Much of the course materials are adapted from <a href="https://web.stanford.edu/class/cs224w/">
-            CS224W @ Stanford University
+          <li>
+            Much of the course materials are adapted from{" "}
+            <a href="https://web.stanford.edu/class/cs224w/">
+              CS224W @ Stanford University
             </a>
-            . We sincerely appreciate Prof. Leskovec and the TA team for making the course materials publicly available.
+            . We sincerely appreciate Prof. Leskovec and the TA team for making
+            the course materials publicly available.
           </li>
           <li>
             <a href="https://graph-and-geometric-learning.github.io/cpsc483-583-website-23fall">
-              CPSC483/583, Yale University
+              CPSC483/583 @ Yale University
             </a>
           </li>
           <li>
@@ -87,9 +91,7 @@ const Content = () => {
             </a>
           </li>
           <li>
-            <a href="https://github.com/snap-stanford/GraphGym">
-              GraphGym
-            </a>
+            <a href="https://github.com/snap-stanford/GraphGym">GraphGym</a>
           </li>
         </ul>
       </p>
