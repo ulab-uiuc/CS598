@@ -39,7 +39,9 @@ const Schedule = () => {
             <td>Aug 28 Wed</td>
             <td>
               Introduction [
-              <a href={require("../../assets/slides/01-Introduction.pdf")}>
+              <a
+                href={require("../../assets/slides/01-Introduction-final.pdf")}
+              >
                 slides
               </a>
               ]
