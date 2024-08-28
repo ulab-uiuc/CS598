@@ -24,8 +24,8 @@ const Schedule = () => {
           <tr>
             <th>Week</th>
             <th>Date</th>
-            <th>Knowledge</th>
-            <th>Research</th>
+            <th>Knowledge learning</th>
+            <th>Research training</th>
             <th>Events</th>
             <th>Deadlines</th>
           </tr>
