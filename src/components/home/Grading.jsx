@@ -29,28 +29,36 @@ const Grading = () => {
         </thead>
         <tbody>
           <tr>
-            <td style={columnWidths.item}>Homework</td>
+            <td style={columnWidths.item}>Assignments</td>
             <td style={columnWidths.weight}>20%</td>
           </tr>
           <tr>
-            <td style={columnWidths.item}>Paper Presentation</td>
-            <td style={columnWidths.weight}>20%</td>
+            <td style={columnWidths.item}>Paper reading and analysis</td>
+            <td style={columnWidths.weight}>15%</td>
           </tr>
           <tr>
-            <td style={columnWidths.item}>Project Report</td>
-            <td style={columnWidths.weight}>30%</td>
+            <td style={columnWidths.item}>Ideate and discussion</td>
+            <td style={columnWidths.weight}>15%</td>
           </tr>
           <tr>
-            <td style={columnWidths.item}>Project Presentation</td>
-            <td style={columnWidths.weight}>20%</td>
+            <td style={columnWidths.item}>Prototype implementation</td>
+            <td style={columnWidths.weight}>15%</td>
           </tr>
           <tr>
-            <td style={columnWidths.item}>Participation & Discussion</td>
+            <td style={columnWidths.item}>Paper writing</td>
+            <td style={columnWidths.weight}>15%</td>
+          </tr>
+          <tr>
+            <td style={columnWidths.item}>Review and response</td>
+            <td style={columnWidths.weight}>10%</td>
+          </tr>
+          <tr>
+            <td style={columnWidths.item}>Presentations</td>
             <td style={columnWidths.weight}>10%</td>
           </tr>
         </tbody>
       </Table>
-      <h3 style={{ marginTop: "0.5em", marginBottom: "0.5em" }}>Project</h3>
+      {/* <h3 style={{ marginTop: "0.5em", marginBottom: "0.5em" }}>Project</h3>
       <p style={{ marginTop: "0.5em", marginBottom: "0.5em" }}>
         The final goal of the course project is to help students create
         resources for their future <b>research</b> in artificial intelligence.
@@ -89,7 +97,7 @@ const Grading = () => {
           content they submitted and must strictly adhere to the academic
           policy.
         </li>
-      </ul>
+      </ul> */}
     </Jumbotron>
   );
 };
