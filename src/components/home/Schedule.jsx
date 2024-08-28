@@ -37,7 +37,7 @@ const Schedule = () => {
               1
             </td>
             <td>Aug 28 Wed</td>
-            <td>Introduction [slides]</td>
+            <td>Introduction</td>
             <td>Paper reading & analysis</td>
             <td></td>
             <td></td>
