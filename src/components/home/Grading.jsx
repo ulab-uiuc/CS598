@@ -18,7 +18,7 @@ const Grading = () => {
         Grading
       </h2>
       <p>
-        <i>To be finalized.</i>
+        <i>This schedule is subject to minor changes.</i>
       </p>
       <Table striped bordered hover>
         <thead>

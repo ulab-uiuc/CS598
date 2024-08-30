@@ -15,8 +15,8 @@ const Schedule = () => {
       </h2>
       <p>
         <i>
-          This schedule is subject to change. All assignment deadlines are at{" "}
-          <b>11:59pm CT</b>.
+          This schedule is subject to minor changes. All assignment deadlines
+          are at <b>11:59pm CT</b>.
         </i>
       </p>
       <Table striped bordered hover>
