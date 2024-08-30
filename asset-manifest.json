@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/CS598/static/css/main.5650a579.css",
-    "main.js": "/CS598/static/js/main.9efae333.js",
+    "main.js": "/CS598/static/js/main.89dcfc01.js",
     "static/js/787.6971d1b3.chunk.js": "/CS598/static/js/787.6971d1b3.chunk.js",
-    "static/media/01-Introduction.pdf": "/CS598/static/media/01-Introduction.2d9bacc853f30eb6c219.pdf",
-    "static/media/02-Graph_Learning_Basics.pdf": "/CS598/static/media/02-Graph_Learning_Basics.19bcb972c81c2c114f47.pdf",
+    "static/media/01_Introduction.pdf": "/CS598/static/media/01_Introduction.2d9bacc853f30eb6c219.pdf",
+    "static/media/02_Graph_Learning_Basics.pdf": "/CS598/static/media/02_Graph_Learning_Basics.f0cb44904f713ec20fbf.pdf",
     "static/media/SourceSans3-VariableFont_wght.ttf": "/CS598/static/media/SourceSans3-VariableFont_wght.f0bd6d1942b9ef5e8026.ttf",
     "static/media/jiaxuan_you.jpg": "/CS598/static/media/jiaxuan_you.d1226405a68da9c3b0c3.jpg",
     "static/media/siebel.jpg": "/CS598/static/media/siebel.34a67847f8741432331d.jpg",
     "static/media/zirui_cheng.jpg": "/CS598/static/media/zirui_cheng.3bcbc64fe9cd77026c68.jpg",
     "index.html": "/CS598/index.html",
     "main.5650a579.css.map": "/CS598/static/css/main.5650a579.css.map",
-    "main.9efae333.js.map": "/CS598/static/js/main.9efae333.js.map",
+    "main.89dcfc01.js.map": "/CS598/static/js/main.89dcfc01.js.map",
     "787.6971d1b3.chunk.js.map": "/CS598/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5650a579.css",
-    "static/js/main.9efae333.js"
+    "static/js/main.89dcfc01.js"
   ]
 }
