@@ -39,9 +39,7 @@ const Schedule = () => {
             <td>Aug 28 Wed</td>
             <td>
               Introduction [
-              <a
-                href={require("../../assets/slides/01-Introduction-final.pdf")}
-              >
+              <a href={require("../../assets/slides/01-Introduction.pdf")}>
                 slides
               </a>
               ]
@@ -52,7 +50,15 @@ const Schedule = () => {
           </tr>
           <tr>
             <td>Aug 30 Fri</td>
-            <td>Graph learning tasks</td>
+            <td>
+              Graph learning basics [
+              <a
+                href={require("../../assets/slides/02-Graph_Learning_Basics.pdf")}
+              >
+                slides
+              </a>
+              ]
+            </td>
             <td>Paper reading & analysis</td>
             <td>Writing task, out</td>
             <td></td>
