@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CS598/static/css/main.5650a579.css",
-    "main.js": "/CS598/static/js/main.73fbaf0f.js",
+    "main.js": "/CS598/static/js/main.f34332b3.js",
     "static/js/787.6971d1b3.chunk.js": "/CS598/static/js/787.6971d1b3.chunk.js",
     "static/media/01_Introduction.pdf": "/CS598/static/media/01_Introduction.79fb502f2e6b58464c71.pdf",
     "static/media/02_Graph_Learning_Basics.pdf": "/CS598/static/media/02_Graph_Learning_Basics.bf43283070412adc88d3.pdf",
@@ -11,11 +11,11 @@
     "static/media/zirui_cheng.jpg": "/CS598/static/media/zirui_cheng.3bcbc64fe9cd77026c68.jpg",
     "index.html": "/CS598/index.html",
     "main.5650a579.css.map": "/CS598/static/css/main.5650a579.css.map",
-    "main.73fbaf0f.js.map": "/CS598/static/js/main.73fbaf0f.js.map",
+    "main.f34332b3.js.map": "/CS598/static/js/main.f34332b3.js.map",
     "787.6971d1b3.chunk.js.map": "/CS598/static/js/787.6971d1b3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5650a579.css",
-    "static/js/main.73fbaf0f.js"
+    "static/js/main.f34332b3.js"
   ]
 }
