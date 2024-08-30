@@ -30,7 +30,14 @@ const Logistics = () => {
               classes.
             </li>
             <li>
-              <b>Office Hours</b>: To be announced
+              <b>Office Hours</b>
+              <ul>
+                <li>Jiaxuan You: To be announced</li>
+                <li>
+                  Zirui Cheng: 11:00 AM - 12:00 PM, Tuesday and Thursday, Zoom
+                  [link visible on Canvas]
+                </li>
+              </ul>
             </li>
             <li>
               <b>Communication</b>: Canvas
