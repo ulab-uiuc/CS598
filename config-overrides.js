@@ -1,8 +1,14 @@
-module.exports = function override(config, env) {
-  if (env === "production") {
-    config.output.filename = "static/js/[name].js";
-    config.output.chunkFilename = "static/js/[name].chunk.js";
-    config.output.assetModuleFilename = "static/media/[name][ext]";
-  }
-  return config;
+module.exports = {
+  webpack: function (config, env) {
+    if (env === "production") {
+      //JS Overrides
+      config.output.filename = "static/js/[name].js";
+      config.output.assetModuleFilename = "static/media/[name][ext]";
+      config.output.chunkFilename = "static/js/[name].chunk.js";
+      //CSS Overrides
+      config.plugins[4].filename = "static/css/[name].css";
+    }
+
+    return config;
+  },
 };

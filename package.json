@@ -22,9 +22,9 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
-    "build": "react-scripts build",
-    "test": "react-scripts test",
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "test": "react-app-rewired test",
     "eject": "react-scripts eject"
   },
   "engines": {
@@ -49,5 +49,8 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://ulab-uiuc.github.io/CS598/"
+  "homepage": "https://ulab-uiuc.github.io/CS598/",
+  "devDependencies": {
+    "react-app-rewired": "^2.2.1"
+  }
 }
