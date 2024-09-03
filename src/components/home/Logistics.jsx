@@ -39,7 +39,7 @@ const Logistics = () => {
               for other people who reserve the time slot to finish.
               <ul>
                 <li>
-                  Jiaxuan You: 1:50 PM - 3:00 PM, Wednesdays, Siebel Center for
+                  Jiaxuan You: 1:50 PM - 3:00 PM, Wednesday, Siebel Center for
                   Computer Science | Room 2122
                 </li>
                 <li>
