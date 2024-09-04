@@ -60,7 +60,15 @@ const Schedule = () => {
               ]
             </td>
             <td>Paper reading & analysis</td>
-            <td>Writing task, out</td>
+            <td>
+              Writing task, out [
+              <a
+                href={require("../../assets/templates/Writing_Task_Vertical.csv")}
+              >
+                template
+              </a>
+              ]
+            </td>
             <td></td>
           </tr>
 
