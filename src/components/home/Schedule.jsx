@@ -70,7 +70,15 @@ const Schedule = () => {
               2
             </td>
             <td>Sept 04 Wed</td>
-            <td>"Shallow" graph learning</td>
+            <td>
+              "Shallow learning" with graphs [
+              <a
+                href={require("../../assets/slides/03_Shallow_Graph_Learning.pdf")}
+              >
+                slides
+              </a>
+              ]
+            </td>
             <td>Paper reading & analysis</td>
             <td></td>
             <td></td>
