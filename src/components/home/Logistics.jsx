@@ -31,9 +31,9 @@ const Logistics = () => {
             </li>
             <li>
               <b>Office Hours</b>: We encourage you to reserve your time slots
-              in advance if you think you need much time (such as 10 minutes).
-              While walk-in is welcomed, you may need to wait for other people
-              who reserve the time slot to finish.
+              if you need much time (such as 10 minutes). While walk-in is
+              welcomed, you may need to wait for others who reserve the time
+              slot to finish.
               <ul>
                 <li>
                   Jiaxuan You: 1:45 PM - 3:00 PM, Wednesday, Siebel Center for
@@ -46,7 +46,7 @@ const Logistics = () => {
               </ul>
             </li>
             <li>
-              <b>Communication</b>: Canvas
+              <b>Communication</b>: cs598-you@siebelschool.illiois.edu
             </li>
           </ul>
         </p>
