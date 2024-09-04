@@ -30,18 +30,18 @@ const Logistics = () => {
               classes.
             </li>
             <li>
-              <b>Office Hours</b>: We encourage you to reserve your time slots
-              if you need much time (such as 10 minutes). While walk-in is
-              welcomed, you may need to wait for others who reserve the time
-              slot to finish.
+              <b>Office Hours</b>: We encourage you to reserve (link visible on
+              Canvas) your time slots if you need much time (such as 10
+              minutes). While walk-in is welcomed, you may need to wait for
+              others who reserve the time slot to finish.
               <ul>
                 <li>
                   Jiaxuan You: 1:45 PM - 3:00 PM, Wednesday, Siebel Center for
                   Computer Science | Room 2122
                 </li>
                 <li>
-                  Zirui Cheng: 11:00 AM - 12:00 PM, Tuesday and Thursday, Zoom
-                  [link visible on Canvas]
+                  Zirui Cheng: 12:00 PM - 1:00 PM, Tuesday and Thursday, Zoom
+                  (link visible on Canvas)
                 </li>
               </ul>
             </li>
