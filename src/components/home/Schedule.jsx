@@ -118,7 +118,7 @@ const Schedule = () => {
             <td>Sept 13 Fri</td>
             <td>Graph neural networks: model II</td>
             <td>Paper reading & analysis</td>
-            <td></td>
+            <td>Assignment 1, out</td>
             <td>Writing task due</td>
           </tr>
 
@@ -156,8 +156,8 @@ const Schedule = () => {
             <td>Sept 27 Fri</td>
             <td>Graph neural networks: theory</td>
             <td>Ideate & discussion</td>
-            <td></td>
-            <td></td>
+            <td>Assignment 2, out</td>
+            <td>Assignment 1 due</td>
           </tr>
 
           {/* Week 6 */}
@@ -195,7 +195,7 @@ const Schedule = () => {
             <td>Beyond simple graphs: heterogeneous graphs</td>
             <td>Prototype implementation</td>
             <td>Submission task, out</td>
-            <td></td>
+            <td>Assignment 2 due</td>
           </tr>
 
           {/* Week 8 */}
@@ -213,7 +213,7 @@ const Schedule = () => {
             <td>Oct 18 Fri</td>
             <td>Beyond simple graphs: knowledge graph reasoning</td>
             <td>Prototype implementation</td>
-            <td></td>
+            <td>Assignment 3, out</td>
             <td></td>
           </tr>
 
@@ -251,8 +251,8 @@ const Schedule = () => {
             <td>Nov 01 Fri</td>
             <td>Beyond small GNNs: graph foundation models</td>
             <td>Paper Writing</td>
-            <td></td>
-            <td></td>
+            <td>Assignment 4, out</td>
+            <td>Assignment 3 due</td>
           </tr>
 
           {/* Week 11 */}
@@ -290,7 +290,7 @@ const Schedule = () => {
             <td>GNN applications: science</td>
             <td>Review & Response</td>
             <td></td>
-            <td></td>
+            <td>Assignment 4 due</td>
           </tr>
 
           {/* Week 13 */}
