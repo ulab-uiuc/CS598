@@ -122,14 +122,14 @@ const Schedule = () => {
               4
             </td>
             <td>Sept 18 Wed</td>
-            <td>Paper reading discussions</td>
+            <td>Paper discussion & teammate finding I</td>
             <td>Ideate & discussion</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
             <td>Sept 20 Fri</td>
-            <td>Graph neural networks: objective</td>
+            <td>Paper discussion & teammate finding II</td>
             <td>Ideate & discussion</td>
             <td>Proposal task, out</td>
             <td></td>
