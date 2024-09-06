@@ -46,7 +46,7 @@ const Logistics = () => {
               </ul>
             </li>
             <li>
-              <b>Communication</b>: cs598-you@siebelschool.illiois.edu
+              <b>Communication</b>: cs598-you@siebelschool.illinois.edu
             </li>
           </ul>
         </p>
