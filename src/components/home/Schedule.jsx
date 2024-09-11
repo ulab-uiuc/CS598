@@ -109,7 +109,13 @@ const Schedule = () => {
               3
             </td>
             <td>Sept 11 Wed</td>
-            <td>Graph neural networks: model I</td>
+            <td>Graph neural networks: model I [
+              <a
+                href={require("../../assets/slides/05_GNN_Model_1.pdf")}
+              >
+                slides
+              </a>
+              ]</td>
             <td>Paper reading & analysis</td>
             <td></td>
             <td></td>
