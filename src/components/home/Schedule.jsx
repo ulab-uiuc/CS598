@@ -125,7 +125,7 @@ const Schedule = () => {
             <td>Graph neural networks: model II</td>
             <td>Paper reading & analysis</td>
             <td>Assignment 1, out</td>
-            <td>Writing task due</td>
+            <td>Writing task, due on Sept 15</td>
           </tr>
 
           {/* Week 4 */}
@@ -163,7 +163,7 @@ const Schedule = () => {
             <td>Graph neural networks: theory</td>
             <td>Ideate & discussion</td>
             <td>Assignment 2, out</td>
-            <td>Assignment 1 due</td>
+            <td>Assignment 1, due on Sept 29</td>
           </tr>
 
           {/* Week 6 */}
@@ -182,7 +182,7 @@ const Schedule = () => {
             <td>GNN implementation: PyG & GraphGym</td>
             <td>Ideate & discussion</td>
             <td></td>
-            <td>Proposal due</td>
+            <td>Proposal, due on Oct 06</td>
           </tr>
 
           {/* Week 7 */}
@@ -201,7 +201,7 @@ const Schedule = () => {
             <td>Beyond simple graphs: heterogeneous graphs</td>
             <td>Prototype implementation</td>
             <td>Submission task, out</td>
-            <td>Assignment 2 due</td>
+            <td>Assignment 2, due on Sept 13</td>
           </tr>
 
           {/* Week 8 */}
@@ -258,7 +258,7 @@ const Schedule = () => {
             <td>Beyond small GNNs: graph foundation models</td>
             <td>Paper Writing</td>
             <td>Assignment 4, out</td>
-            <td>Assignment 3 due</td>
+            <td>Assignment 3, due on Nov 03</td>
           </tr>
 
           {/* Week 11 */}
@@ -277,7 +277,7 @@ const Schedule = () => {
             <td>GNN applications: recommender systems</td>
             <td>Paper Writing</td>
             <td></td>
-            <td>Submission due</td>
+            <td>Submission, due on Nov 10</td>
           </tr>
 
           {/* Week 12 */}
@@ -296,7 +296,7 @@ const Schedule = () => {
             <td>GNN applications: science</td>
             <td>Review & Response</td>
             <td></td>
-            <td>Assignment 4 due</td>
+            <td>Assignment 4, due on Nov 17</td>
           </tr>
 
           {/* Week 13 */}
@@ -334,7 +334,7 @@ const Schedule = () => {
             <td>Course project presentation 3</td>
             <td>Presentation</td>
             <td></td>
-            <td>Review & response due</td>
+            <td>Review & response, due on Dec 08</td>
           </tr>
         </tbody>
       </Table>
