@@ -165,7 +165,13 @@ const Schedule = () => {
               ]
             </td>
             <td>Ideate & discussion</td>
-            <td>Proposal task, out</td>
+            <td>
+              Proposal task, out [
+              <a href={require("../../assets/templates/iclr2025.zip")}>
+                template
+              </a>
+              ]
+            </td>
             <td></td>
           </tr>
 
