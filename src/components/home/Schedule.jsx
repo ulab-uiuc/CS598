@@ -91,13 +91,13 @@ const Schedule = () => {
           </tr>
           <tr>
             <td>Sept 06 Fri</td>
-            <td>Graph neural networks: perspective [
-              <a
-                href={require("../../assets/slides/04_GNN_Perspective.pdf")}
-              >
+            <td>
+              Graph neural networks: perspective [
+              <a href={require("../../assets/slides/04_GNN_Perspective.pdf")}>
                 slides
               </a>
-              ]</td>
+              ]
+            </td>
             <td>Paper reading & analysis</td>
             <td></td>
             <td></td>
@@ -109,26 +109,26 @@ const Schedule = () => {
               3
             </td>
             <td>Sept 11 Wed</td>
-            <td>Graph neural networks: model I [
-              <a
-                href={require("../../assets/slides/05_GNN_Model_1.pdf")}
-              >
+            <td>
+              Graph neural networks: model I [
+              <a href={require("../../assets/slides/05_GNN_Model_1.pdf")}>
                 slides
               </a>
-              ]</td>
+              ]
+            </td>
             <td>Paper reading & analysis</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
             <td>Sept 13 Fri</td>
-            <td>Graph neural networks: model II [
-              <a
-                href={require("../../assets/slides/06_GNN_Model_2.pdf")}
-              >
+            <td>
+              Graph neural networks: model II [
+              <a href={require("../../assets/slides/06_GNN_Model_2.pdf")}>
                 slides
               </a>
-              ]</td>
+              ]
+            </td>
             <td>Paper reading & analysis</td>
             <td>Assignment 1, out</td>
             <td>Writing task, due on Sept 15</td>
@@ -140,14 +140,30 @@ const Schedule = () => {
               4
             </td>
             <td>Sept 18 Wed</td>
-            <td>Paper discussion & teammate finding I</td>
+            <td>
+              Paper discussion & teammate finding I [
+              <a
+                href={require("../../assets/slides/07_Paper_Discussion_1.pdf")}
+              >
+                slides
+              </a>
+              ]
+            </td>
             <td>Ideate & discussion</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
             <td>Sept 20 Fri</td>
-            <td>Paper discussion & teammate finding II</td>
+            <td>
+              Paper discussion & teammate finding II [
+              <a
+                href={require("../../assets/slides/08_Paper_Discussion_2.pdf")}
+              >
+                slides
+              </a>
+              ]
+            </td>
             <td>Ideate & discussion</td>
             <td>Proposal task, out</td>
             <td></td>
