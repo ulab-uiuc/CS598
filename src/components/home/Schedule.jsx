@@ -305,7 +305,7 @@ const Schedule = () => {
             <td>GNN applications: recommender systems</td>
             <td>Paper Writing</td>
             <td></td>
-            <td>Submission, due on Nov 10</td>
+            <td>Submission, due on Nov 10 (only draft required)</td>
           </tr>
 
           {/* Week 12 */}
