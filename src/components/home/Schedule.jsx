@@ -235,7 +235,7 @@ const Schedule = () => {
             <td>Beyond simple graphs: heterogeneous graphs</td>
             <td>Prototype implementation</td>
             <td>Submission task, out</td>
-            <td>Assignment 2, due on Sept 13</td>
+            <td>Assignment 2, due on Oct 13</td>
           </tr>
 
           {/* Week 8 */}
