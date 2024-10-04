@@ -225,7 +225,15 @@ const Schedule = () => {
           </tr>
           <tr>
             <td>Oct 04 Fri</td>
-            <td>GNN implementation: PyG & GraphGym</td>
+            <td>
+              GNN implementation: PyG & GraphGym [
+              <a
+                href={require("../../assets/slides/12_GNN_Implementation.pdf")}
+              >
+                slides
+              </a>
+              ]
+            </td>
             <td>Ideate & discussion</td>
             <td></td>
             <td>Proposal, due on Oct 06</td>
