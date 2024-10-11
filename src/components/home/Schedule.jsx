@@ -260,7 +260,15 @@ const Schedule = () => {
           </tr>
           <tr>
             <td>Oct 11 Fri</td>
-            <td>Beyond simple graphs: heterogeneous graphs</td>
+            <td>
+              Beyond simple graphs: heterogeneous graphs [
+              <a
+                href={require("../../assets/slides/14_Heterogeneous_Graphs.pdf")}
+              >
+                slides
+              </a>
+              ]
+            </td>
             <td>Prototype implementation</td>
             <td>Submission task, out</td>
             <td>Assignment 2, due on Oct 13</td>
@@ -339,7 +347,7 @@ const Schedule = () => {
             <td>GNN applications: recommender systems</td>
             <td>Paper Writing</td>
             <td></td>
-            <td>Submission, due on Nov 10 (only draft required)</td>
+            <td></td>
           </tr>
 
           {/* Week 12 */}
@@ -358,7 +366,10 @@ const Schedule = () => {
             <td>GNN applications: science</td>
             <td>Review & Response</td>
             <td></td>
-            <td>Assignment 4, due on Nov 17</td>
+            <td>
+              Assignment 4, due on Nov 17; <br />
+              Submission, due on Nov 17 (only draft required)
+            </td>
           </tr>
 
           {/* Week 13 */}
