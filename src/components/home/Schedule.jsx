@@ -280,7 +280,13 @@ const Schedule = () => {
               8
             </td>
             <td>Oct 16 Wed</td>
-            <td>Beyond simple graphs: knowledge graphs</td>
+            <td>
+              Beyond simple graphs: knowledge graphs [
+              <a href={require("../../assets/slides/15_Knowledge_Graphs.pdf")}>
+                slides
+              </a>
+              ]
+            </td>
             <td>Prototype implementation</td>
             <td></td>
             <td></td>
