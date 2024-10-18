@@ -293,7 +293,15 @@ const Schedule = () => {
           </tr>
           <tr>
             <td>Oct 18 Fri</td>
-            <td>Beyond simple graphs: knowledge graph reasoning</td>
+            <td>
+              Beyond simple graphs: knowledge graph reasoning [
+              <a
+                href={require("../../assets/slides/16_Knowledge_Graph_Reasoning.pdf")}
+              >
+                slides
+              </a>
+              ]
+            </td>
             <td>Prototype implementation</td>
             <td>Assignment 3, out</td>
             <td></td>
