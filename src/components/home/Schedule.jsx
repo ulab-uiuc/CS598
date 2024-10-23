@@ -313,7 +313,15 @@ const Schedule = () => {
               9
             </td>
             <td>Oct 23 Wed</td>
-            <td>Beyond prediction: graph generative models</td>
+            <td>
+              Beyond prediction: graph generative models [
+              <a
+                href={require("../../assets/slides/17_Graph_Generative_Models.pdf")}
+              >
+                slides
+              </a>
+              ]
+            </td>
             <td>Prototype implementation</td>
             <td></td>
             <td></td>
