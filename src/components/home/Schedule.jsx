@@ -347,7 +347,7 @@ const Schedule = () => {
           </tr>
           <tr>
             <td>Nov 01 Fri</td>
-            <td>Beyond small GNNs: graph foundation models</td>
+            <td>Beyond sparse graphs: graph transformers</td>
             <td>Paper Writing</td>
             <td>Assignment 4, out</td>
             <td>Assignment 3, due on Nov 03</td>
@@ -359,7 +359,7 @@ const Schedule = () => {
               11
             </td>
             <td>Nov 06 Wed</td>
-            <td>Beyond sparse graphs: graph transformers</td>
+            <td>Beyond small GNNs: graph foundation models</td>
             <td>Paper Writing</td>
             <td></td>
             <td></td>
