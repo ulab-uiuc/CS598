@@ -328,7 +328,13 @@ const Schedule = () => {
           </tr>
           <tr>
             <td>Oct 25 Fri</td>
-            <td>Beyond message passing: expressive GNNs</td>
+            <td>
+              Beyond message passing: expressive GNNs [
+              <a href={require("../../assets/slides/18_Expressive_GNNs.pdf")}>
+                slides
+              </a>
+              ]
+            </td>
             <td>Prototype implementation</td>
             <td></td>
             <td></td>
