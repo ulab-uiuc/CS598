@@ -346,7 +346,15 @@ const Schedule = () => {
               10
             </td>
             <td>Oct 30 Wed</td>
-            <td>Beyond small graphs: scale GNNs to large graphs</td>
+            <td>
+              Beyond small graphs: scale GNNs to large graphs [
+              <a
+                href={require("../../assets/slides/19_Scale_GNNs_to_Large_Graphs.pdf")}
+              >
+                slides
+              </a>
+              ]
+            </td>
             <td>Paper Writing</td>
             <td></td>
             <td></td>
