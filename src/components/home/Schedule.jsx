@@ -393,14 +393,14 @@ const Schedule = () => {
             </td>
             <td>Nov 13 Wed</td>
             <td>No class</td>
-            <td>Review & Response</td>
+            <td>Paper Writing</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
             <td>Nov 15 Fri</td>
             <td>GNN applications: graph mining (remote)</td>
-            <td>Review & Response</td>
+            <td>Paper Writing</td>
             <td></td>
             <td>Assignment 4, due on Nov 17</td>
           </tr>
@@ -412,7 +412,7 @@ const Schedule = () => {
             </td>
             <td>Nov 20 Wed</td>
             <td>GNN applications: science</td>
-            <td>Review & Response</td>
+            <td>Paper Writing</td>
             <td></td>
             <td>Submission, due on Nov 21 (only draft required)</td>
           </tr>
