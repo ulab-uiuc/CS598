@@ -392,20 +392,17 @@ const Schedule = () => {
               12
             </td>
             <td>Nov 13 Wed</td>
-            <td>GNN applications: graph mining</td>
+            <td>No class</td>
             <td>Review & Response</td>
-            <td>Review & response task, out</td>
+            <td></td>
             <td></td>
           </tr>
           <tr>
             <td>Nov 15 Fri</td>
-            <td>GNN applications: science</td>
+            <td>GNN applications: graph mining (remote)</td>
             <td>Review & Response</td>
             <td></td>
-            <td>
-              Assignment 4, due on Nov 17; <br />
-              Submission, due on Nov 17 (only draft required)
-            </td>
+            <td>Assignment 4, due on Nov 17</td>
           </tr>
 
           {/* Week 13 */}
@@ -414,33 +411,50 @@ const Schedule = () => {
               13
             </td>
             <td>Nov 20 Wed</td>
-            <td>Conclusion</td>
+            <td>GNN applications: science</td>
             <td>Review & Response</td>
             <td></td>
-            <td></td>
+            <td>Submission, due on Nov 21 (only draft required)</td>
           </tr>
           <tr>
             <td>Nov 22 Fri</td>
-            <td>Course project presentation 1</td>
+            <td>Conclusion</td>
             <td>Review & Response</td>
-            <td></td>
+            <td>Review & response task, out</td>
             <td></td>
           </tr>
-
           {/* Week 14 */}
           <tr>
             <td rowSpan={2} className="text-center align-middle">
               14
             </td>
+            <td>Nov 27 Wed</td>
+            <td>No class (fall break)</td>
+            <td>Review & Response</td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Nov 29 Fri</td>
+            <td>No class (fall break)</td>
+            <td>Review & Response</td>
+            <td></td>
+            <td></td>
+          </tr>
+          {/* Week 15 */}
+          <tr>
+            <td rowSpan={2} className="text-center align-middle">
+              15
+            </td>
             <td>Dec 04 Wed</td>
-            <td>Course project presentation 2</td>
+            <td>Course project presentation 1</td>
             <td>Presentation</td>
             <td></td>
             <td></td>
           </tr>
           <tr>
             <td>Dec 06 Fri</td>
-            <td>Course project presentation 3</td>
+            <td>Course project presentation 2</td>
             <td>Presentation</td>
             <td></td>
             <td>Review & response, due on Dec 08</td>
