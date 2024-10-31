@@ -414,7 +414,7 @@ const Schedule = () => {
             <td>GNN applications: science</td>
             <td>Paper Writing</td>
             <td></td>
-            <td>Submission, due on Nov 21 (only draft required)</td>
+            <td>Submission task, due on Nov 21 (only draft required)</td>
           </tr>
           <tr>
             <td>Nov 22 Fri</td>
