@@ -361,7 +361,15 @@ const Schedule = () => {
           </tr>
           <tr>
             <td>Nov 01 Fri</td>
-            <td>Beyond sparse graphs: graph transformers</td>
+            <td>
+              Beyond sparse graphs: graph transformer [
+              <a
+                href={require("../../assets/slides/20_Graph_Transformers.pdf")}
+              >
+                slides
+              </a>
+              ]
+            </td>
             <td>Paper Writing</td>
             <td>Assignment 4, out</td>
             <td>Assignment 3, due on Nov 03</td>
