@@ -381,7 +381,15 @@ const Schedule = () => {
               11
             </td>
             <td>Nov 06 Wed</td>
-            <td>Beyond small GNNs: graph foundation models</td>
+            <td>
+              Beyond small GNNs: graph foundation models [
+              <a
+                href={require("../../assets/slides/21_Graph_Foundation_Models.pdf")}
+              >
+                slides
+              </a>
+              ]
+            </td>
             <td>Paper Writing</td>
             <td></td>
             <td></td>
