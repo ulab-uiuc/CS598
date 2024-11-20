@@ -441,7 +441,13 @@ const Schedule = () => {
               13
             </td>
             <td>Nov 20 Wed</td>
-            <td>GNN applications: science</td>
+            <td>
+              GNN applications: science [
+              <a href={require("../../assets/slides/24_Graph_Science.pdf")}>
+                slides
+              </a>
+              ]
+            </td>
             <td>Paper Writing</td>
             <td></td>
             <td>Submission task, due on Nov 21 (only draft required)</td>
